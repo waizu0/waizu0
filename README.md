@@ -20,4 +20,14 @@ Here are some ideas to get you started:
   </a>
  </div>
   <img src="https://komarev.com/ghpvc/?username=waizu0&style=flat-square&color=blue" alt=""/>
+  <h1>
+  Welcome to my profile!
+</h1>
 </div>
+
+  ### 💻 ABOUT ME: 
+
+- 😎 Experienced Unity/Javascript Engineer with aof successfully delivering front and backend projects.
+- 🌎 Collaborated on various projects as a Unity/Javascript Engineer.
+- 🧠 Constantly learning and exploring new tools and languages to stay at the forefront of the industry.
+- 🖊️ Enjoys sharing knowledge and writing about technology and game development. Has written articles for various tech and gaming publications.
