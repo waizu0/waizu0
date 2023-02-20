@@ -47,9 +47,3 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tail" alt="Tail" width="50" height="50"/>&nbsp;
 </div>
-
----
-
-### :fire: Statistics:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waizu0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
