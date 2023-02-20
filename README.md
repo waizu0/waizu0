@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 😎 Experienced Unity/Javascript Engineer with aof successfully delivering front and backend projects.
 - 🌎 Collaborated on various projects as a Unity/Javascript Engineer.
 - 🧠 Constantly learning and exploring new tools and languages to stay at the forefront of the industry.
-- 🖊️ Enjoys sharing knowledge and writing about technology and game development. Has written articles for various tech and gaming publications.
+- 🖊️ Enjoys sharing knowledge and writing about technology and game development.
 
 ---
 
@@ -47,3 +47,9 @@ Here are some ideas to get you started:
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tail" alt="Tail" width="50" height="50"/>&nbsp;
 </div>
+
+---
+
+### :fire: Statistics:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waizu0&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
